@@ -1,5 +1,5 @@
 ### Hi there 👋
-Don't worry, I'll add something here soon
+Don't worry, I'll add something here soon. I'm still thinking of a good quip
 
 <!--
 **SankThomas/SankThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
