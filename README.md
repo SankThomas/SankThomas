@@ -7,7 +7,7 @@ I call myself tsbsankara on all social media except GitHub because my GitHub pro
 
 ### What I'm currently learning
 
-1. Recently I coerced myself into learning design because even though I have a good eye for design, I wasn't a good designer myself. I've picked up Figma in the recent past and it is working out very well. I have created a repository with my Figma designs - as terrible as they are - which you can find [here](https://github.com/SankThomas/figma-designs).
+1. Recently I coaxed myself into learning design because even though I have a good eye for design, I wasn't a good designer myself. I've picked up Figma in the recent past and it is working out very well. I have created a repository with my Figma designs - as terrible as they are - which you can find [here](https://github.com/SankThomas/figma-designs).
 2. I am also learning GatsbyJs and React Native, and I am looking to pick up VueJs in the future. That's my 12-month plan. (Don't hold me to it)
 
 ### Hobbies
@@ -21,7 +21,7 @@ I call myself tsbsankara on all social media except GitHub because my GitHub pro
 - Just to mention something I like saying - The world is backwards. You need experience to get a job, but you need a job to get experience, and no one is willing to hire someone without experience - at least that's the situation where I'm from.
 - Ever since I graduated, I've not held a job. I've gone on a few interviews and I have been unsuccessful at all of them. In November last year I was tired of waiting around and I wanted to do something with my life. I decided that I would showcase my skills to potential employers and hopefully that would get me noticed - hence my YouTube channel. Hint: It's working.
 - Also, if you hear of a job opportunity that you think would fit me, contact me on [Twitter](https://twitter.com/TSBSankara) or use the email in my profile. Thank you.
-- To add onto everything above, I do occasional livestreams on YouTube and Twitch just because I think it is fun and it poses a challenge because doing something live, and doing a recorded version of it are two different things.
+- To add onto everything above, I do occasional livestreams on [YouTube](https://youtube.com/tsbsankara) and [Twitch](https://twitch.tv/tsbsankara) just because I think it is fun and it poses a challenge because doing something live, and doing a recorded version of it are two different things.
 
 ### Additional links / How to reach me
 
