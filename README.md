@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-### About me
+### Who is me?
 
 My name is Thomas Sankara. I am a Front-end Web Developer. I love ReactJs and NextJs. I have also come to love doing YouTube tutorials [here](https://youtube.com/tsbsankara) which led me to do a Udemy course.
 I call myself tsbsankara on all social media except GitHub because my GitHub profile was one which at the time of creation, I didn't think I would use all that much. I was wrong.
+Also, the title is correct as you read it.
 
 ### What I'm currently learning
 
@@ -19,9 +20,7 @@ I call myself tsbsankara on all social media except GitHub because my GitHub pro
 ### What I do now
 
 - Just to mention something I like saying - The world is backwards. You need experience to get a job, but you need a job to get experience, and no one is willing to hire someone without experience - at least that's the situation where I'm from.
-- Ever since I graduated, I've not held a job. I've gone on a few interviews and I have been unsuccessful at all of them. In November last year I was tired of waiting around and I wanted to do something with my life. I decided that I would showcase my skills to potential employers and hopefully that would get me noticed - hence my YouTube channel. Hint: It's working.
-- Also, if you hear of a job opportunity that you think would fit me, contact me on [Twitter](https://twitter.com/TSBSankara) or use the email in my profile. Thank you.
-- To add onto everything above, I do occasional livestreams on [YouTube](https://youtube.com/tsbsankara) and [Twitch](https://twitch.tv/tsbsankara) just because I think it is fun and it poses a challenge because doing something live, and doing a recorded version of it are two different things.
+- I do occasional livestreams on [YouTube](https://youtube.com/tsbsankara) and [Twitch](https://twitch.tv/tsbsankara) just because I think it is fun and it poses a challenge because doing something live, and doing a recorded version of it are not the same thing.
 
 ### Additional links / How to reach me
 
@@ -29,5 +28,4 @@ I call myself tsbsankara on all social media except GitHub because my GitHub pro
 2. Twitter - https://twitter.com/TSBSankara
 3. Instagram - https://instagram.com/tsbsankara
 4. Twitch - https://twitch.tv/tsbsankara
-5. Streamlabs - https://streamlabs.com/tsbsankara1/tip
-6. Patreon - https://patreon.com/tsbsankara
+5. Tip - https://streamlabs.com/tsbsankara1/tip
