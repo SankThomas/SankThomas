@@ -28,4 +28,5 @@ Also, the title is correct as you read it.
 2. Twitter - https://twitter.com/TSBSankara
 3. Instagram - https://instagram.com/tsbsankara
 4. Twitch - https://twitch.tv/tsbsankara
-5. Tip - https://streamlabs.com/tsbsankara1/tip
+5. Become a patron on Patreon - https://patreon.com/tsbsankara
+5. Buy me a coffee - https://streamlabs.com/tsbsankara1/tip
