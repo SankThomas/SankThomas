@@ -1,32 +1,28 @@
 ## Hi there 👋
 
-### Who is me?
+### Who am I?
 
-My name is Thomas Sankara. I am a Front-end Web Developer. I love ReactJs and NextJs. I have also come to love doing YouTube tutorials [here](https://youtube.com/tsbsankara) which led me to do a Udemy course.
-I call myself tsbsankara on all social media except GitHub because my GitHub profile was one which at the time of creation, I didn't think I would use all that much. I was wrong.
-Also, the title is correct as you read it.
+My name is Thomas Sankara. I am a front-end web designer and developer. I use Figma and ReactJs mainly, and I am based in Nairobi, Kenya.
 
 ### What I'm currently learning
 
-1. Recently I coaxed myself into learning design because even though I have a good eye for design, I wasn't a good designer myself. I've picked up Figma in the recent past and it is working out very well. I have created a repository with my Figma designs - as terrible as they are - which you can find [here](https://github.com/SankThomas/figma-designs).
-2. I am also learning GatsbyJs and React Native, and I am looking to pick up VueJs in the future. That's my 12-month plan. (Don't hold me to it)
+1. I am improving my web design knowledge by continually building web apps, websites and mobile apps in Figma.
+2. GROQ query language from [Sanity](https://sanity.io).
+
+### Goals
+1. I run [my YouTube Channel](https://youtube.com/@tsbsankara) where I post videos about projects I build, designs I make and challenges I complete. What started off as a way to show recruiters that I can actually do the things they interview about has now become something that I want to make long term. So my current goal is to get up to 100,000 Subscribers (currently at 3,200) and to reach 100,000 daily views (currently at 20,000).
+2. I'm building a catalogue of projects, both designs and builds - all completely free and accessible. 
+  - I currently only have 3 projects on [this Figma board](https://www.figma.com/file/NnQdyln5hME3qCY3OXxtby/Designs?node-id=0%3A1). I will be using this board for all web design projects. I will let you know of any changes.
+  - I (might) also create a dedicated repository for the projects. However I'm thinking about linking the respective repositories in the designs so that no one repo will be extremely huge and daunting.
 
 ### Hobbies
 
 1. I love "Design to Code" challenges because they are not only engaging, they also teach you design principles and can the jumpstart you need into to Front-end developer career.
 2. I write poems to express how I feel about something - you might read some of them in future but they are all in a vault for now.
-3. I think a lot. I don't know whether this qualifies as a hobby. I write what I think which usually isn't really "normal stuff" but I like it. I decided to compile all that stuff into one big book filled with my thoughts. Do you want to read it? I do too.
+3. I think a lot. I don't know whether this qualifies as a hobby. I also write what I think which usually isn't really "normal stuff" (not normal to me at least) but I like it. I decided to compile all that stuff into one big book filled with my thoughts. Do you want to read it? I do too.
 
-### What I do now
+### How to reach me
 
-- Just to mention something I like saying - The world is backwards. You need experience to get a job, but you need a job to get experience, and no one is willing to hire someone without experience - at least that's the situation where I'm from.
-- I do occasional livestreams on [YouTube](https://youtube.com/tsbsankara) and [Twitch](https://twitch.tv/tsbsankara) just because I think it is fun and it poses a challenge because doing something live, and doing a recorded version of it are not the same thing.
-
-### Additional links / How to reach me
-
-1. YouTube - https://youtube.com/tsbsankara
+1. YouTube - https://youtube.com/@tsbsankara
 2. Twitter - https://twitter.com/TSBSankara
-3. Instagram - https://instagram.com/tsbsankara
-4. Twitch - https://twitch.tv/tsbsankara
-5. Become a patron on Patreon - https://patreon.com/tsbsankara
-5. Buy me a coffee - https://streamlabs.com/tsbsankara1/tip
+3. Website - https://tsbsankara.com/contact-me
