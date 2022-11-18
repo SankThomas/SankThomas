@@ -26,3 +26,4 @@ My name is Thomas Sankara. I am a front-end web designer and developer. I use Fi
 1. YouTube - https://youtube.com/@tsbsankara
 2. Twitter - https://twitter.com/TSBSankara
 3. Website - https://tsbsankara.com/contact-me
+4. Discord - [https://discord.gg/https://discord.gg/TDr42sFD8g](https://discord.gg/TDr42sFD8g)
