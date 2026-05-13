@@ -1,38 +1,129 @@
 ## Hi there 👋
 
-### Who am I?
+### Frontend Developer | React Specialist | UI Engineer
 
-My name is Thomas Sankara. I am a front-end web designer and developer. I use Figma and ReactJs mainly, and I am based in Nairobi, Kenya.
+I’m a frontend developer focused on building scalable, high-performance web applications using React and modern UI tooling.  
+I specialize in translating UI/UX designs into production-ready interfaces with a strong emphasis on usability, performance, and maintainable architecture.
 
-### What I'm currently doing
+---
 
-1. I am building a website called [Learnerspree](https://learnerspree.vercel.app) whose intention is to have content about as many topics as possible.
-2. I am currently editing my ReactJs 20 projects video course which I will offer on Udemy and Tutorialspoint.
-3. I am building a catalogue of all the projects I have ever done from personal projects to Frontend Mentor challenges. Some of the text is just lorem ipsum, and some of the projects are already complete. Check them out here: [TsbSankara Catalogue of Projects](https://tsbsankara-catalogue.netlify.app) and the repository is [right here](https://github.com/sankthomas/catalogue).
-4. I have a [Gumroad Catalogue](https://tsbsankara.gumroad.com) which has a bunch of designs that I have done as well as all the books I have written. All of these cost 1 dollar each.
-5. Check out my beginner HTML and CSS course where you will learn how to build and deploy a functional Hotel Website: [HTML and CSS course](https://www.udemy.com/course/tsbdesigns-web-development-course/)
-6. Mobile app development using React-Native.
-7. Desktop applications development using ElectronJS.
+## 📊 GitHub Overview
 
-### Goals
+<p>
+  <img src="https://streak-stats.demolab.com?user=SankThomas" height="165"/>
+</p>
 
-1. I run [my YouTube Channel](https://youtube.com/@tsbsankara) where I post videos about projects I build, designs I make and challenges I complete. What started off as a way to show recruiters that I can actually do the things they interview about has now become something that I want to make long term. So my current goal is to get up to 100,000 Subscribers (currently at 6,100) and to reach 100,000 daily views (currently at 20,000).
-2. I'm building a catalogue of projects, both designs and builds - all completely free and accessible.
+---
 
-- I currently only have 3 projects on [this Figma board](https://www.figma.com/file/NnQdyln5hME3qCY3OXxtby/Designs?node-id=0%3A1). I will be using this board for all web design projects. I will let you know of any changes.
-- I (might) also create a dedicated repository for the projects. However I'm thinking about linking the respective repositories in the designs so that no one repo will be extremely huge and daunting.
+## 🧠 Tech Stack
 
-### Hobbies
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-1. I love "Design to Code" challenges because they are not only engaging, they also teach you design principles and can the jumpstart you need into to Front-end developer career.
-2. I write poems to express how I feel about something - you might read some of them in future but they are all in a vault for now.
-3. I think a lot. I don't know whether this qualifies as a hobby. I also write what I think which usually isn't really "normal stuff" (not normal to me at least) but I like it. I decided to compile all that stuff into one big book filled with my thoughts. Do you want to read it? I do too.
-   **UPDATE**: I finished writing a 15 page preview of this book called [Untitled: Pieces of Advice from a Young Man] and you can grab it for 1 dollar on [My Gumroad Catalogue](https://tsbsankara.gumroad.com)
-4. I play the keyboard. 😁
+### Frontend
+![React](https://img.shields.io/badge/React-UI-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?style=for-the-badge&logo=css3)
 
-### How to reach me
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma)
 
-1. YouTube - https://youtube.com/@tsbsankara
-2. Twitter - https://twitter.com/TSBSankara
-3. Website - https://tsbsankara.com/contact-me
-4. Discord - [https://discord.gg/TDr42sFD8g](https://discord.gg/TDr42sFD8g)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-Versioning-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel)
+
+---
+
+## 🚀 Featured Projects
+
+### Learnerspree
+A structured, content-driven learning platform designed to make multi-domain learning accessible and organized - Work In Progress 
+🔗 https://learnerspree.vercel.app  
+
+---
+
+### Helpdesk
+A lightweight ticketing and support management system designed for handling user queries and workflows efficiently.  
+🔗 Live: https://tsbhelpdesk.vercel.app/  
+🔗 Repo: https://github.com/sankthomas/helpdesk  
+
+---
+
+## Udemy Courses
+### Let's Build 20 ReactJs Projects
+A hands-on, project-based course covering 20 real-world React applications from scratch.  
+🔗 https://www.udemy.com/course/tsbsankara-twenty-reactjs-projects/ 
+
+### Let's Build 10 NextJs Projects
+A hands-on, project-based course covering 20 real-world React applications from scratch.  
+🔗 https://www.udemy.com/course/lets-build-10-nextjs-projects/ 
+
+### Build and Deploy a Fullstack Helpdesk CRM Tool Using React
+Build and deploy a fully functional, responsive Helpdesk CRM and ticketing tool using ReactJs, Convex and TailwindCSS  
+🔗 https://www.udemy.com/course/tsbsankara-helpdesk/
+
+### 3 Responsive Web Design Projects Using React and Vite
+Build 3 responsive web apps from scratch to master React Vite Web Development
+🔗 https://www.udemy.com/course/3-responsive-web-design-projects-using-react-and-vite/
+
+### Let's Build a Full Stack Invoice Web App Using NextJs
+Build a full-stack invoicing web app using NextJs for the UI, Convex for the backend and Kinde for authentication
+🔗 https://www.udemy.com/course/invoicerv3/
+
+---
+
+## 💼 What I Focus On
+
+- Building production-ready React applications with scalable architecture
+- Design-to-code implementation with pixel-level accuracy
+- Performance optimization (render efficiency, UX flow, bundle size)
+- Component-driven development and reusable UI systems
+- Educational content for frontend developers (YouTube + courses)
+
+---
+
+## 📈 Activity & Growth
+
+- YouTube channel: 6K+ subscribers with consistent growth
+- ~2K daily views across educational content
+- Focused on project-based learning for developers
+
+---
+
+## 📌 Key Strengths
+
+- Strong UI engineering mindset with attention to detail
+- Experience shipping real-world frontend products
+- Fast and accurate UI-to-code translation (Figma → React)
+- Component architecture and reusable design systems
+- Developer education and content creation experience
+
+---
+
+## 🎯 Career Direction
+
+Actively focused on frontend engineering roles involving:
+- Scalable React applications
+- Design systems and UI architecture
+- Performance-focused frontend development
+- Developer experience and education platforms
+
+---
+
+## 🎨 Beyond Engineering
+
+- UI experimentation and design-to-code exploration
+- Writing (poetry and long-form technical ideas)
+
+---
+
+## 📫 Connect With Me
+
+- YouTube: https://youtube.com/@tsbsankara  
+- Website: https://tsbsankara.netlify.app/ 
+- Twitter: https://twitter.com/TSBSankara  
+- Discord: https://discord.gg/TDr42sFD8g
