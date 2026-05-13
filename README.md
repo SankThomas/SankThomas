@@ -49,7 +49,7 @@ A structured, content-driven learning platform designed to make multi-domain lea
 ### Helpdesk
 A lightweight ticketing and support management system designed for handling user queries and workflows efficiently.  
 🔗 Live: https://tsbhelpdesk.vercel.app/  
-🔗 Repo: https://github.com/sankthomas/helpdesk  
+🔗 Repo: https://github.com/SankThomas/helpdesk-udemy
 
 ---
 
